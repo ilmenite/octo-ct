@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1
+http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv01/1.m3u8
+#EXTINF:-1,CCTV-2
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-2/1.m3u8
+#EXTINF:-1,CCTV-3
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-3/1.m3u8
+#EXTINF:-1,CCTV-4
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-4/1.m3u8
+#EXTINF:-1,CCTV-5
+http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1,CCTV-6
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-6/1.m3u8
+#EXTINF:-1,CCTV-7
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-7/1.m3u8
+#EXTINF:-1,CCTV-8
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-8/1.m3u8
+#EXTINF:-1,CCTV-9
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-news/1.m3u8
+#EXTINF:-1,CCTV-10
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-10/1.m3u8
+#EXTINF:-1,CCTV-11
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-11/1.m3u8
+#EXTINF:-1,CCTV-12
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-12/1.m3u8
+#EXTINF:-1,CCTV-13
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-13/1.m3u8
+#EXTINF:-1,CCTV-14
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-14/1.m3u8
+#EXTINF:-1,CCTV-15
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-15/1.m3u8
+#EXTINF:-1,Chongqing TV
+http://117.169.72.6:8080/ysten-businessmobile/live/chongqingstv/1.m3u8
+#EXTINF:-1,Jilin TV
+http://117.169.72.6:8080/ysten-businessmobile/live/jilinstv/1.m3u8
+#EXTINF:-1,Gansu TV
+http://117.169.72.6:8080/ysten-businessmobile/live/gansustv/1.m3u8
+#EXTINF:-1,Heilong Jiang TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1,Hubei TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdhubeistv/1.m3u8
+#EXTINF:-1,Anhui TV
+http://117.169.72.6:8080/ysten-businessmobile/live/anhuistv/1.m3u8
+#EXTINF:-1,Sichuan TV
+http://117.169.72.6:8080/ysten-businessmobile/live/sichuanstv/1.m3u8
+#EXTINF:-1,Hebei TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hebeistv/1.m3u8
+#EXTINF:-1,Liaoning TV
+http://117.169.72.6:8080/ysten-businessmobile/live/liaoningstv/1.m3u8
+#EXTINF:-1,Jiaoyu TV
+http://117.169.72.6:8080/ysten-businessmobile/live/jiaoyutv/1.m3u8
+#EXTINF:-1,Beijing TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdbeijingstv/1.m3u8
+#EXTINF:-1,Hunan TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdhunanstv/1.m3u8
+#EXTINF:-1,Dongfang TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hddongfangstv/1.m3u8
+#EXTINF:-1,Shenzhen TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1,Zhejiang TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdzhejiangstv/1.m3u8
+#EXTINF:-1,Jiangsu TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdjiangsustv/1.m3u8
+#EXTINF:-1,Tianjin TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdtianjinstv/1.m3u8
+#EXTINF:-1,Guangdong TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdguangdongstv/1.m3u8
+#EXTINF:-1,Jiangxi TV
+http://117.169.72.6:8080/ysten-businessmobile/live/jiangxistv/1.m3u8
+#EXTINF:-1,Shandong TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hdshandongstv/1.m3u8
+#EXTINF:-1,FH Zixun
+http://117.169.72.6:8080/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1,FH Chinese
+http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
