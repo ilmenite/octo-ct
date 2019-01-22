@@ -3,36 +3,66 @@
 http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv01/1.m3u8
 #EXTINF:-1,CCTV-1 SD
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000001/index.m3u8
-#EXTINF:-1,CCTV-2
+#EXTINF:-1,CCTV-2 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-2/1.m3u8
 #EXTINF:-1,CCTV-2 SD
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000002/index.m3u8
-#EXTINF:-1,CCTV-3
+#EXTINF:-1,CCTV-3 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1,CCTV-4
+#EXTINF:-1,CCTV-3 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1,CCTV-4 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-4/1.m3u8
-#EXTINF:-1,CCTV-5
+#EXTINF:-1,CCTV-4 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000004/index.m3u8
+#EXTINF:-1,CCTV-5 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1,CCTV-6
+#EXTINF:-1,CCTV-5 SD
+http://223.110.243.155/PLTV/3/224/3221227466/index.m3u8#http://223.110.243.155/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1,CCTV-6 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1,CCTV-7
+#EXTINF:-1,CCTV-6 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1,CCTV-7 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-7/1.m3u8
-#EXTINF:-1,CCTV-8
+#EXTINF:-1,CCTV-7 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000007/index.m3u8
+#EXTINF:-1,CCTV-8 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1,CCTV-9
+#EXTINF:-1,CCTV-8 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1,CCTV-9 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-news/1.m3u8
-#EXTINF:-1,CCTV-10
+#EXTINF:-1,CCTV-9 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1,CCTV-10 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-10/1.m3u8
-#EXTINF:-1,CCTV-11
+#EXTINF:-1,CCTV-10 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
+#EXTINF:-1,CCTV-11 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-11/1.m3u8
-#EXTINF:-1,CCTV-12
+#EXTINF:-1,CCTV-11 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000011/index.m3u8
+#EXTINF:-1,CCTV-12 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-12/1.m3u8
-#EXTINF:-1,CCTV-13
+#EXTINF:-1,CCTV-12 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8
+#EXTINF:-1,CCTV-13 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-13/1.m3u8
-#EXTINF:-1,CCTV-14
+#EXTINF:-1,CCTV-13 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000013/index.m3u8
+#EXTINF:-1,CCTV-14 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-14/1.m3u8
-#EXTINF:-1,CCTV-15
+#EXTINF:-1,CCTV-14 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8
+#EXTINF:-1,CCTV-15 HD
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-15/1.m3u8
+#EXTINF:-1,CCTV-15 SD
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000015/index.m3u8
+#EXTINF:-1,烟台公共
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8
+#EXTINF:-1,德州公共
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000207/index.m3u8
 #EXTINF:-1,Chongqing TV
 http://117.169.72.6:8080/ysten-businessmobile/live/chongqingstv/1.m3u8
 #EXTINF:-1,Jilin TV
