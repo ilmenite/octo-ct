@@ -37,8 +37,6 @@ http://cctvalih5c.v.myalicdn.com/wstv/btv1_2/index.m3u8
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
 #EXTINF:-1,Dongfang SD
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/dongfang_2/index.m3u8
-#EXTINF:-1,Dongnan SD
-http://cctvalih5c.v.myalicdn.com/wstv/dongnan_2/index.m3u8
 #EXTINF:-1,Guangdong SD
 http://cctvalih5c.v.myalicdn.com/wstv/guangdong_2/index.m3u8
 #EXTINF:-1,Guangxi SD
@@ -75,6 +73,8 @@ http://cctvalih5c.v.myalicdn.com/wstv/shan1xi_2/index.m3u8
 http://cctvalih5c.v.myalicdn.com/wstv/shan3xi_2/index.m3u8
 #EXTINF:-1,Shenzhen SD
 http://cctvalih5c.v.myalicdn.com/wstv/shenzhen_2/index.m3u8
+#EXTINF:-1,Southeast SD
+http://cctvalih5c.v.myalicdn.com/wstv/dongnan_2/index.m3u8
 #EXTINF:-1,Tianjin SD
 http://cctvalih5c.v.myalicdn.com/wstv/tianjin_2/index.m3u8
 #EXTINF:-1,Tibet SD
