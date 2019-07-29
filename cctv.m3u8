@@ -1,103 +1,87 @@
 #EXTM3U
-#EXTINF:-1,CCTV-1 HD
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
 #EXTINF:-1,CCTV-1 SD
-http://112.25.77.147:8080/live/hdcctv01/1.m3u8
-#EXTINF:-1,CCTV-2 HD
-http://223.110.243.155:80/PLTV/3/224/3221227412/index.m3u8
-#EXTINF:-1,CCTV-3 HD
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,CCTV-4 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-4/1.m3u8
+http://cctvalih5c.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1,CCTV-2 SD
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2/index.m3u8
+#EXTINF:-1,CCTV-3 SD
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
 #EXTINF:-1,CCTV-4 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000004/index.m3u8
-#EXTINF:-1,CCTV-5 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1,CCTV-6 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-6/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
+#EXTINF:-1,CCTV-5 SD
+http://36132.hlsplay.aodianyun.com/tv_radio_36132/tv_channel_812.m3u8
 #EXTINF:-1,CCTV-6 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
-#EXTINF:-1,CCTV-7 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-7/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
 #EXTINF:-1,CCTV-7 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000007/index.m3u8
-#EXTINF:-1,CCTV-8 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-8/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
 #EXTINF:-1,CCTV-8 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
-#EXTINF:-1,CCTV-9 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-news/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 #EXTINF:-1,CCTV-9 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/index.m3u8
-#EXTINF:-1,CCTV-10 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-10/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1,CCTV-10 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
-#EXTINF:-1,CCTV-11 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-11/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
 #EXTINF:-1,CCTV-11 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000011/index.m3u8
-#EXTINF:-1,CCTV-12 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-12/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8
 #EXTINF:-1,CCTV-12 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8
-#EXTINF:-1,CCTV-13 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-13/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv12_2/index.m3u8
 #EXTINF:-1,CCTV-13 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000013/index.m3u8
-#EXTINF:-1,CCTV-14 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-14/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 #EXTINF:-1,CCTV-14 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8
-#EXTINF:-1,CCTV-15 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-15/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1,CCTV-15 SD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000015/index.m3u8
-#EXTINF:-1,Yantai SD
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8
-#EXTINF:-1,Dezhou SD
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000207/index.m3u8
-#EXTINF:-1,Chongqing TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/chongqingstv/1.m3u8
-#EXTINF:-1,Jilin TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/jilinstv/1.m3u8
-#EXTINF:-1,Gansu TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/gansustv/1.m3u8
-#EXTINF:-1,Heilong Jiang TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/heilongjiangstv/1.m3u8
-#EXTINF:-1,Hubei TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/hubeistv/1.m3u8
-#EXTINF:-1,Anhui TV HD
-http://117.169.72.6:8080/ysten-businessmobile/live/anhuistv/1.m3u8
-#EXTINF:-1,Sichuan TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/sichuanstv/1.m3u8
-#EXTINF:-1,Hebei TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/hebeistv/1.m3u8
-#EXTINF:-1,Liaoning TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/liaoningstv/1.m3u8
-#EXTINF:-1,Jiaoyu TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/jiaoyutv/1.m3u8
-#EXTINF:-1,Beijing TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/beijingstv/1.m3u8
-#EXTINF:-1,Hunan TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/hunanstv/1.m3u8
-#EXTINF:-1,Dongfang TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/dongfangstv/1.m3u8
-#EXTINF:-1,Shenzhen TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/shenzhenstv/1.m3u8
-#EXTINF:-1,Zhejiang TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/zhejiangstv/1.m3u8
-#EXTINF:-1,Jiangsu TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/jiangsustv/1.m3u8
-#EXTINF:-1,Tianjin TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/tianjinstv/1.m3u8
-#EXTINF:-1,Guangdong TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/guangdongstv/1.m3u8
-#EXTINF:-1,Jiangxi TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/jiangxistv/1.m3u8
-#EXTINF:-1,Shandong TV SD
-http://117.169.72.6:8080/ysten-businessmobile/live/shandongstv/1.m3u8
-#EXTINF:-1,FH Zixun SD
-http://117.169.72.6:8080/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,FH Chinese SD
-http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+#EXTINF:-1,Anhui SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1,BTV SD
+http://cctvalih5c.v.myalicdn.com/wstv/btv1_2/index.m3u8
+#EXTINF:-1,Chongqing SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
+#EXTINF:-1,Dongfang SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/dongfang_2/index.m3u8
+#EXTINF:-1,Dongnan SD
+http://cctvalih5c.v.myalicdn.com/wstv/dongnan_2/index.m3u8
+#EXTINF:-1,Guangdong SD
+http://cctvalih5c.v.myalicdn.com/wstv/guangdong_2/index.m3u8
+#EXTINF:-1,Guangxi SD
+http://cctvalih5c.v.myalicdn.com/wstv/guangxi_2/index.m3u8
+#EXTINF:-1,Hebei SD
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1,Heilongjiang SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/heilongjiang_2/index.m3u8
+#EXTINF:-1,Henan SD
+http://cctvalih5c.v.myalicdn.com/wstv/henan_2/index.m3u8
+#EXTINF:-1,Hubei SD
+http://cctvalih5c.v.myalicdn.com/wstv/hubei_2/index.m3u8
+#EXTINF:-1,Jiangsu SD
+http://live2.plus.hebtv.com/jsws/sd/live.m3u8
+#EXTINF:-1,Jiangxi SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/jiangxi_2/index.m3u8
+#EXTINF:-1,Jilin SD
+http://live2.plus.hebtv.com/jlws/sd/live.m3u8
+#EXTINF:-1,Liaoning SD
+http://cctvalih5c.v.myalicdn.com/wstv/liaoning_2/index.m3u8
+#EXTINF:-1,Nei Mongol SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/neimenggu_2/index.m3u8
+#EXTINF:-1,Phoenix TV 1 HD
+http://112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1,Phoenix TV 2 HD
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,Qinghai SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/qinghai_2/index.m3u8
+#EXTINF:-1,Shandong SD
+http://cctvalih5c.v.myalicdn.com/wstv/shandong_2/index.m3u8
+#EXTINF:-1,Shanxi 1 SD
+http://cctvalih5c.v.myalicdn.com/wstv/shan1xi_2/index.m3u8
+#EXTINF:-1,Shanxi 3 SD
+http://cctvalih5c.v.myalicdn.com/wstv/shan3xi_2/index.m3u8
+#EXTINF:-1,Shenzhen SD
+http://cctvalih5c.v.myalicdn.com/wstv/shenzhen_2/index.m3u8
+#EXTINF:-1,Tianjin SD
+http://cctvalih5c.v.myalicdn.com/wstv/tianjin_2/index.m3u8
+#EXTINF:-1,Tibet SD
+http://183.207.249.11/PLTV/3/224/3221225579/index.m3u8
+#EXTINF:-1,Xinjiang SD
+http://livehyw2.sobeycache.com/xjtvs/zb01.m3u8
+#EXTINF:-1,Yunnan SD
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/yunnan_2/index.m3u8
+#EXTINF:-1,Zhejiang SD
+http://111.40.205.79/PLTV/88888888/224/3221225612/index.m3u8
