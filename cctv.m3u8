@@ -10,7 +10,7 @@ http://183.207.248.11/PLTV/4/224/3221225781/index.m3u8
 #EXTINF:-1,CCTV-5 SD
 http://36132.hlsplay.aodianyun.com/tv_radio_36132/tv_channel_812.m3u8
 #EXTINF:-1,CCTV-6 SD
-http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
 #EXTINF:-1,CCTV-7 SD
 http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
 #EXTINF:-1,CCTV-8 SD
