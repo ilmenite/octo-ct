@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1 SD
 http://cctvalih5c.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1,CCTV-1 HD
+http://112.50.243.7/PLTV/88888888/224/3221226489/index.m3u8
 #EXTINF:-1,CCTV-2 SD
 http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv2_2/index.m3u8
 #EXTINF:-1,CCTV-3 SD
