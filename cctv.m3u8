@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1 SD
 http://hbpx.chinashadt.com:2036/live/px2.stream/playlist.m3u8
+#EXTINF:-1,CCTV-1 HD
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
 #EXTINF:-1,CCTV-2 SD
 http://hbpx.chinashadt.com:2036/live/px3.stream/playlist.m3u8
 #EXTINF:-1,CCTV-3 SD
