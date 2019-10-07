@@ -25,8 +25,10 @@ http://171.118.214.217:9981/stream/channelid/1954683104
 http://183.207.248.11/PLTV/4/224/3221225866/index.m3u8
 #EXTINF:-1,CCTV-8 HD
 http://171.118.214.217:9981/stream/channelid/481808214
+#EXTINF:-1,CCTV-9 HD
+http://112.50.243.7/PLTV/88888888/224/3221226566/index.m3u8
 #EXTINF:-1,CCTV-9 SD
-http://cctvtxyh5c.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8
+http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8
 #EXTINF:-1,CCTV-10 SD
 http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
 #EXTINF:-1,CCTV-11 SD
