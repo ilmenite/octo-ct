@@ -21,6 +21,8 @@ http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
 http://171.118.214.217:9981/stream/channelid/1954683104
 #EXTINF:-1,CCTV-8 SD
 http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+#EXTINF:-1,CCTV-8 HD
+http://171.118.214.217:9981/stream/channelid/481808214
 #EXTINF:-1,CCTV-9 SD
 http://cctvtxyh5c.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1,CCTV-10 SD
