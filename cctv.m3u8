@@ -11,6 +11,8 @@ http://cctvoverseas-lh.akamaihd.net/i/cctv3_1@304743/master.m3u8
 http://183.207.248.11/PLTV/4/224/3221225781/index.m3u8
 #EXTINF:-1,CCTV-5 SD
 http://36132.hlsplay.aodianyun.com/tv_radio_36132/tv_channel_812.m3u8
+#EXTINF:-1,CCTV-5 HD
+http://171.118.214.217:9981/stream/channelid/1125402968
 #EXTINF:-1,CCTV-6 SD
 http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
 #EXTINF:-1,CCTV-6 HD
