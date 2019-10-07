@@ -18,7 +18,7 @@ http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
 #EXTINF:-1,CCTV-6 HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 #EXTINF:-1,CCTV-7 SD
-http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
 #EXTINF:-1,CCTV-7 HD
 http://171.118.214.217:9981/stream/channelid/1954683104
 #EXTINF:-1,CCTV-8 HD
